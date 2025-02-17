@@ -48,3 +48,11 @@ The output is a mp4 file, looking similar too:
 
 2. 3D
 - Open a Sample Scene in the Scenes Folder and Play to test out the simulation.
+
+
+# Contributors
+
+- [JKKDY](https://github.com/JKKDY)
+- [missing-user](https://github.com/missing-user)
+- [RiaRosenauer](https://github.com/RiaRosenauer)
+- [schwarzfischer1776](https://github.com/schwarzfischer1776)
